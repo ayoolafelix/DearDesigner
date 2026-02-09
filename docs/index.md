@@ -6,7 +6,7 @@ layout: post
 
 12 Minutes Read | Published on: 02 March 2022 
 
----
+
 
 *Over the past few years, the conversations around design and art have gotten deeper and more intertwined. While the two concepts keep gaining ground within society, the question of what differentiates design from art hovers constantly.*
 
