@@ -85,7 +85,6 @@ She adds;
 ---
 <div style="height: 1rem;"></div>
 This article was originally published on DearDes!gner, it has been moved here because the site is no longer accessible, but the knowledge remains valuable. 
-<div style="height: 1rem;"></div>
 
 ---
 <div style="height: 1rem;"></div>
