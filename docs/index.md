@@ -81,9 +81,11 @@ Ariyike and Morenike however have a different perspective, citing that the argum
 She adds;
 
 *“There are different situations where you are making art and that is what you are doing and then there are situations where you are designing and that is what you are doing and both are necessary. I don’t think the argument is important.”*
+
 ---
 
 This article was originally published on DearDes!gner, it has been moved here because the site is no longer accessible, but the knowledge remains valuable. 
+
 ---
 
 Archived by Felix Ayoola for The Organization of Nigerian Design Preservation.
