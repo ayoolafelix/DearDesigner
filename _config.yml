@@ -1,0 +1,19 @@
+# Jekyll configuration for GitHub Pages with midnight theme
+
+theme: midnight
+
+# Site settings
+url: "https://yourdomain.com"
+baseurl: ""
+title: "Your Site Title"
+description: "A description of your site."
+
+# Build settings
+include:
+  - _pages
+  - _posts
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
