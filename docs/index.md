@@ -1,6 +1,5 @@
 # Design vs Art
 
----
 12 Minutes Read | Published on: 02 March 2022 
 ---
 
