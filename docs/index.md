@@ -86,6 +86,7 @@ She adds;
 <div style="height: 3rem;"></div>
 This article was originally published on DearDes!gner, it has been moved here because the site is no longer accessible, but the knowledge remains valuable. 
 <div style="height: 3rem;"></div>
+
 ---
 <div style="height: 3rem;"></div>
 Archived by Felix Ayoola for The Organization of Nigerian Design Preservation.
