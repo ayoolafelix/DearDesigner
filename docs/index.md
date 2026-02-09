@@ -89,6 +89,7 @@ She adds;
 This article was originally published on DearDes!gner, it has been moved here because the site is no longer accessible, but the knowledge remains valuable. 
 
 <div class="extra-space"></div>
+
 ---
 <div class="extra-space"></div>
 Archived by Felix Ayoola for The Organization of Nigerian Design Preservation.
