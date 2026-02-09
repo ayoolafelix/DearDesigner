@@ -8,7 +8,7 @@
 
 *Over the past few years, the conversations around design and art have gotten deeper and more intertwined. While the two concepts keep gaining ground within society, the question of what differentiates design from art hovers constantly.*
 
-*In this article, [**Sarpomah Boakye](https://www.instagram.com/_bluevector/), [David Ofiare](https://dribbble.com/artofofiare), [Ariyike Adetimehin](https://www.ariyikeadetimehin.com/),** and **[Morenike Olusanya](https://www.instagram.com/iamrenike)** attempt to explain how art differs from design, their roles, and their collective influence on today’s society.*
+*In this article, [Sarpomah Boakye](https://www.instagram.com/_bluevector/), [David Ofiare](https://dribbble.com/artofofiare), [Ariyike Adetimehin](https://www.ariyikeadetimehin.com/),** and **[Morenike Olusanya](https://www.instagram.com/iamrenike)** attempt to explain how art differs from design, their roles, and their collective influence on today’s society.*
 
 
 ## **What is Art? What is Design?**
