@@ -1,9 +1,7 @@
 # Design vs Art
 
 ---
-
 12 Minutes Read | Published on: 02 March 2022 
-
 ---
 
 *Over the past few years, the conversations around design and art have gotten deeper and more intertwined. While the two concepts keep gaining ground within society, the question of what differentiates design from art hovers constantly.*
@@ -81,6 +79,7 @@ She adds;
 *“There are different situations where you are making art and that is what you are doing and then there are situations where you are designing and that is what you are doing and both are necessary. I don’t think the argument is important.”*
 
 ---
+
 
 This article was originally published on DearDes!gner, it has been moved here because the site is no longer accessible, but the knowledge remains valuable. 
 
