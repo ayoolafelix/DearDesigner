@@ -1,3 +1,16 @@
-theme: jekyll-theme-midnight
-title: ""
-footer: ""
+title: ""                 # removes repo/site title at the top
+author: "Felix Ayoola"
+description: ""
+lang: "en"
+
+theme: minima             # minimal theme with Jekyll rendering
+
+# Layout options
+show_sidebar: false
+show_frame: false
+show_minimal: true        # removes extra chrome
+footer: ""                # removes theme credit
+
+# Navigation (optional)
+navigation:
+  - {file: "index.md", title: "Home"}
